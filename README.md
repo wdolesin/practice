@@ -8,3 +8,7 @@
 # *it was once said *
 ---
 **he was a decent fellow **
+
+```python
+print("nice")
+```
